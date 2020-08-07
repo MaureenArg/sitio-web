@@ -1,4 +1,4 @@
 # sitio-web
 Sitio web de ejemplo
 ==================
-Este es un sitio web de ejemplo para mostrar la funcionalidad de [GITHUB Pages] (ghttps://pages.github.com/)
+Este es un sitio web de ejemplo para mostrar la funcionalidad de [GITHUB Pages] (https://pages.github.com/)
